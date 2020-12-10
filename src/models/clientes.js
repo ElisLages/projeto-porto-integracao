@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose')
 
 const clientesSchema = new mongoose.Schema({
     id: {type : Number},
