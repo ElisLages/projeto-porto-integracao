@@ -8,7 +8,7 @@
 npm install mongoose
 ```
 
-**2 -**  Criar a string de conexão com o mongo, lembre-se que o nome do banco será : clientes. Lembre-se de criar a conexão e validar se realmente o banco está logado exibindo uma mensagem de suceso no console.
+**2 -**  Criar a string de conexão com o mongo, lembre-se que o nome do banco será : clientes. Lembre-se de criar a conexão e validar se realmente o banco está logado exibindo uma mensagem de sucesso no console.
 
 **3 -**  Após se certificar de que existe conexão com o mongo, será necessário estruturar o seu objeto que será armazenado no banco, o clientes (clientesSchema). 
 
